@@ -1,12 +1,12 @@
 {
     "webcredentials":{
-        "apps":["Z7FPP72ZX6.com.yoins.app.Yoins"] 
+        "apps":["memberid"] 
     }
     
 	"applinks": {
 		"apps": [],
 		"details": [{
-			"appID": "Z7FPP72ZX6.com.yoins.app.Yoins",
+			"appID": "memberid",
 			"paths": [
 				"*change-email*", ]
 		}]
